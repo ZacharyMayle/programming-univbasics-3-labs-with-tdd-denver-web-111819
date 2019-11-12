@@ -7,4 +7,4 @@ product = first_number * second_number
 quotient = first_number / second_number
 
 
-puts product
+puts difference
